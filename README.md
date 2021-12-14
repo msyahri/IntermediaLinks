@@ -1,6 +1,6 @@
 # Links : Intermedia links list
 
-[![Generic badge](https://img.shields.io/badge/Build-Success-<COLOR>.svg)] 
+![Generic badge](https://img.shields.io/badge/Build-Success-<COLOR>.svg)
 
 
 ## Main Source:
