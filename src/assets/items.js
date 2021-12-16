@@ -82,7 +82,7 @@ const items = [{
 },  
 {
     "title": "Instagram PHP2D INTERMEDIA",
-    "subtitle": "@php2d_intermedia | Update Seputar Kegiatan PHP2d INTERMEDIA",
+    "subtitle": "@php2d_intermedia | Update Seputar Kegiatan PHP2D INTERMEDIA",
     "image": instagramphp2d,
     "link": "https://www.iitc.intermediaamikom.org" //youtube channel link 
 },
