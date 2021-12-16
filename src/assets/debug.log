@@ -1,0 +1,25 @@
+[1213/224747.349:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/224747.436:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/224747.815:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/224752.709:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/224753.053:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/224758.043:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/224758.295:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/224803.127:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/224803.346:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/224808.144:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/224808.432:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/224813.227:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/224813.446:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/224816.385:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/224816.945:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/224818.312:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/224818.601:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/224821.760:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1213/224822.093:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1216/153715.975:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[1216/155458.398:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1216/163648.691:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
