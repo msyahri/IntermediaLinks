@@ -9,7 +9,11 @@
 4. assets = banner & image
 5. src = all source
 <br>
-
+Live Preview (auto deploy) = <a href="https://intermedialinks.vercel.app">https://intermedialinks.vercel.app</a>
+<br>
+Active = <a href="https://intermedia.amikompurwokerto.ac.id">https://intermedia.amikompurwokerto.ac.id</a>
+<br>
+<br>
 
 Credit src
 <a href="https://github.com/devgossips">devgossips</a>
