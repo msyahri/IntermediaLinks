@@ -66,7 +66,7 @@ const items = [{
     "title": "E-Voting",
     "subtitle": "E-Voting Platform",
     "image": evoting,
-    "link": "http://evoting.intermediaamikom.org" //Evoting link 
+    "link": "https://evoting.intermediaamikom.org/" //Evoting link 
 },
 {
     "title": "WhatsApp",
