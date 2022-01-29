@@ -81,7 +81,7 @@ const items = [{
     "link": "https://instagram.com/iitc_intermedia/" //IG IITC link 
 },  
 {
-    "title": "Instagram PHP2D INTERMEDIA",
+    "title": "Instagram PHP2D",
     "subtitle": "@php2d_intermedia | Update Seputar Kegiatan PHP2D INTERMEDIA",
     "image": instagramphp2d,
     "link": "https://www.iitc.intermediaamikom.org" //youtube channel link 

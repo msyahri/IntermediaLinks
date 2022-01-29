@@ -9,7 +9,7 @@ function Footer() {
         <div className="Footer container">
         <p>INTERMEDIA <span class="heart">❤️</span> <a href={"https://intermediaamikom.org"}><font color="#168205"><b>#WeAreFamily!</b></font></a></p>
         <p> <a href={"https://amikompurwokerto.ac.id"}>Universitas Amikom Purwokerto</a></p>
-        <p>React || devgossips</p>
+	   <p>INTERMEDIA Links</p>
         </div>
     )
 }
