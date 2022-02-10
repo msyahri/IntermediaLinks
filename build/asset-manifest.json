@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e97d4ea2.chunk.css",
+    "main.js": "/static/js/main.ece30d65.chunk.js",
+    "main.js.map": "/static/js/main.ece30d65.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.be62a7ac.js",
+    "runtime-main.js.map": "/static/js/runtime-main.be62a7ac.js.map",
+    "static/js/2.5bbee821.chunk.js": "/static/js/2.5bbee821.chunk.js",
+    "static/js/2.5bbee821.chunk.js.map": "/static/js/2.5bbee821.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e97d4ea2.chunk.css.map": "/static/css/main.e97d4ea2.chunk.css.map",
+    "static/js/2.5bbee821.chunk.js.LICENSE.txt": "/static/js/2.5bbee821.chunk.js.LICENSE.txt",
+    "static/media/Upstream-8.a432b01b.png": "/static/media/Upstream-8.a432b01b.png",
+    "static/media/evoting.947aa9a1.png": "/static/media/evoting.947aa9a1.png",
+    "static/media/iitc.bc81ce4b.png": "/static/media/iitc.bc81ce4b.png",
+    "static/media/instagram.a0b6eb5e.png": "/static/media/instagram.a0b6eb5e.png",
+    "static/media/instagramiitc.e54002bb.png": "/static/media/instagramiitc.e54002bb.png",
+    "static/media/instagramphp2d.d21991c3.png": "/static/media/instagramphp2d.d21991c3.png",
+    "static/media/jalumas.48eeed93.png": "/static/media/jalumas.48eeed93.png",
+    "static/media/website.61d0913f.png": "/static/media/website.61d0913f.png",
+    "static/media/whatsapp.996dccd6.png": "/static/media/whatsapp.996dccd6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be62a7ac.js",
+    "static/js/2.5bbee821.chunk.js",
+    "static/css/main.e97d4ea2.chunk.css",
+    "static/js/main.ece30d65.chunk.js"
+  ]
+}
